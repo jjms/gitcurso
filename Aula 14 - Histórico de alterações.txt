@@ -1,0 +1,9 @@
+#Listar todos os commits do repositório
+git log
+
+HEAD é o ponteiro para o ultimo commit de uma branch
+
+#resumido
+git log --oneline
+
+
