@@ -1,0 +1,3 @@
+Nota da aula 15: com git checkout <SHA> eu colto para um determinado ponto no git
+#Desfazendo alterações antes de comitar
+Valor inserido antes de comitar 
