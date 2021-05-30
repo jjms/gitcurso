@@ -4,3 +4,7 @@ Valor inserido antes de comitar
 git checkout "Aula 16 - Desfazendo alterações.txt"
 pode desfazer qualquer alteração do arquivo passado como parâmetro.
 Agora vou fazer um commit
+#Desfazer todas as alterações desde o ultimo commit
+git reset --hard
+#Apagar arquivos não rastreados
+git clean -f
