@@ -1,0 +1,9 @@
+Branch é uma ramificação de um projeto
+#criar a branch develop
+git branch develop
+#listar as branches
+git branch
+#ir pra branch develop
+git checkout develop
+# criar a branch e ir pra ela
+git checkout -b task-1
