@@ -42,6 +42,8 @@ index 15b8aa0..20e9cc5 100644
 @@ -16,6 +16,8 @@ git add .
  #Comitar os arquivos que estiverem no stage
  git commit -m "Nome do commit"
+ 
+ Modificado no github
 
 
 
