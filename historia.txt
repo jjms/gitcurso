@@ -1,0 +1,289 @@
+    1  cd d:
+    2  cd rqual/
+    3  git pull
+    4  d:
+    5  cd d:
+    6  cd rqual/
+    7  git add 
+    8  git add .
+    9  git commit -m "dashboard odisley"
+   10  git pull
+   11  git add .
+   12  git commit -m "dashboard odisley"
+   13  git pull
+   14  git push origin develop
+   15  git add .
+   16  git commit -m "grupo04 descarte e tabelas"
+   17  git pull
+   18  git push origin develop
+   19  cd d:
+   20  cd rqual/
+   21  ls
+   22  git add .
+   23  git commit -m "grupo04 fluxo e dashes"
+   24  git pull
+   25  git pull
+   26  git push origin develop
+   27  exit
+   28  cd d:
+   29  cd rqual/
+   30  git reset --hard HEAD~1
+   31  git add .
+   32  git commit -m "grupo04 entrega de dashboards"
+   33  git pull
+   34  git push origin develop
+   35  git add .
+   36  git commit -m "grupo04 correções de cálculos"
+   37  git pull
+   38  git push origin develop
+   39  git add .
+   40  cd d:\rqual
+   41  git add .
+   42  git add .
+   43  git commit -m "grupo04 entrega de fluxos e painéis"
+   44  git pull
+   45  git pull
+   46  git push origin develop
+   47  git add .
+   48  git commit -m "grupo06 primeira entrega"
+   49  git pull
+   50  git push origin develop
+   51  d:
+   52  cd d:
+   53  cd rqual
+   54  git add .
+   55  git commit -m "grupo06 entrega 16 de outubro"
+   56  git pull
+   57  git push origin develop
+   58  cd d:
+   59  git add .
+   60  cd rqual
+   61  git add .
+   62  git commit -m "grupo06 entrega 23 de outubro"
+   63  git pull
+   64  git push origin develop
+   65  cd d:
+   66  cd rqual/
+   67  git add .
+   68  git commit -m "grupo06 entrega 25 de outubro"
+   69  git pull
+   70  git pull
+   71  git push origin develop
+   72  d:
+   73  cd d:
+   74  cd rqual
+   75  git add .
+   76  git commit -m "grupo04 e 6 para produção"
+   77  git pull
+   78  git push origin develop
+   79  cd d:
+   80  cd d:\rqual
+   81  git add .
+   82  git commit -m "Grupo 04 - Change 117"
+   83  git pull
+   84  git push origin develop
+   85  exit
+   86  cd d:\rqual
+   87  git add .
+   88  git commit -m "Grupo 04 - bug 40"
+   89  git pull
+   90  git push origin develop
+   91  exit
+   92  cd d:\rqual
+   93  git add .
+   94  git commit -m "Grupo 02 banco"
+   95  git pull
+   96  git pull
+   97  git push origin develop
+   98  cd d:\rqual
+   99  git add .
+  100  git add .
+  101  git commit -m "Grupo 02 correções"
+  102  git pull
+  103  git push origin develop
+  104  exit
+  105  cd d:\rqual
+  106  git add .
+  107  git commit -m "Grupo 02, 04 e 06 changes novembro 2020"
+  108  git pull
+  109  git push origin develop
+  110  EXIT
+  111  exit
+  112  cd d:\rqual
+  113  git commit -m "Changes 125 a 135 e ajustes do Grupo 06"
+  114  git add .
+  115  git commit -m "Changes 125 a 135 e ajustes do Grupo 06"
+  116  git pull
+  117  git push origin develop
+  118  exit
+  119  git add .
+  120  cd d:\rqual
+  121  git add .
+  122  git commit -m "Correções grupo 02 e 06 para homologação"
+  123  git pull
+  124  git push origin develop
+  125  exit
+  126  CD D:
+  127  cd d:\rqual
+  128  git add .
+  129  git commit -m "Refatoramento do Grupo 04 e correção dos bugs do grupo 06"
+  130  git pull
+  131  git push origin develop
+  132  exit
+  133  cd d:\rqual
+  134  git add .
+  135  git commit -m "Correções do grupo 02 e do grupo 06, com dateparse"
+  136  git add .
+  137  git add .
+  138  git commit -m "Correções do grupo 02 e do grupo 06, com dateparse"
+  139  git pull
+  140  git push origin develop
+  141  exit
+  142  cd d:\rqual
+  143  git add .
+  144  git commit -m "Correções do grupo 04 e grupo 06 data Vivo e subida para producao"
+  145  git pull
+  146  git push origin develop
+  147  exit
+  148  cd d:\rqual
+  149  git add .
+  150  git commit -m "Correções do grupo 02 e início do INF3 e IR"
+  151  git pull
+  152  git push origin develop
+  153  exit
+  154  cd d:\rqual
+  155  git add .
+  156  git commit -m "Correções do grupo 04 e processada do INF3 e IR"
+  157  git add .
+  158  git commit -m "Correções do grupo 04 e processada do INF3 e IR"
+  159  git pull
+  160  git push origin develop
+  161  exit
+  162  cd d:\rqual
+  163  git add .
+  164  git commit -m "Correções do Grupo 06 e Grupo04"
+  165  git pull
+  166  git pull
+  167  git pull
+  168  git pull
+  169  exit
+  170  cd d:\rqual
+  171  git pull
+  172  git push origin develop
+  173  cd d:\rqual
+  174  git add .
+  175  git commit -m "Comit da covid"
+  176  git pull
+  177  git pull
+  178  git push origin develop
+  179  exit
+  180  cd d:\rqual
+  181  git add .
+  182  git commit -m "Grupo 04 changes 143, 213, 214, 216, 241, 242 e 246. Grupo02 Change 141 e 265"
+  183  git pull
+  184  git push origin develop
+  185  exit
+  186  cd d:\rqual
+  187  git add .
+  188  git commit -m "RAWDATA_INDICADOR grupos 02, 03, 04 e 06"
+  189  git pull
+  190  git push origin develop
+  191  exit
+  192  cd d:\rqual
+  193  git add .
+  194  git commit -m "correção do CGI e da duplicidade do grupo 02"
+  195  git pull
+  196  git push origin develop
+  197  exit
+  198  cd d:\rqual
+  199  cd prep/grupo4/In
+  200  git ls-files -d | xargs git checkout
+  201  exit
+  202  d:
+  203  cd d:
+  204  mkdir cursogit
+  205  cd cursogit/
+  206  git config --global user.name "Jesse James"
+  207  git config --global user.email "jj@jsoft.com.br"
+  208  git config --list
+  209  git init
+  210  git status
+  211  git add .
+  212  git status
+  213  git add -A
+  214  git commit -m "Primeiro commit"
+  215  git branch develop
+  216  git status
+  217  git status
+  218  git status
+  219  git status
+  220  git status
+  221  git add .
+  222  git status
+  223  git commit -m "Segundo commit"
+  224  git status
+  225  git commit -m "Terceiro commit"
+  226  git add .
+  227  git commit -m "Quarto commit"
+  228  git add .
+  229  git status
+  230  git status
+  231  git commit -m "commit 5"
+  232  git status
+  233  git diff
+  234  git add .
+  235  git diff
+  236  git status
+  237  git commit -m "commit 6"
+  238  git status
+  239  git log
+  240  git log oneline
+  241  git log --oneline
+  242  git checkout d94f
+  243  git checkout 1405
+  244  git checkout master
+  245  git checkout develop
+  246  git checkout master
+  247  git checkout producao
+  248  git branch producao
+  249  git checkout produção
+  250  git checkout producao
+  251  git checkout develop
+  252  git checkout producao
+  253  git checkout develop
+  254  cd d:\rqual
+  255  git log
+  256  a
+  257  exit
+  258  cd d:\cursogit
+  259  git checkout
+  260  git log
+  261  git checkot master
+  262  git checkout master
+  263  git add .
+  264  git commit -m 'Voltando para a aula 15'
+  265  git checkout master
+  266  git merge develop
+  267  git mergetool
+  268  cd /d/rqual
+  269  cd /d/gitcurso
+  270  git branch
+  271  git checkout task-2
+  272  git checkout task-1
+  273  git git checkout develop
+  274  git checkout develop
+  275  git merge task-2
+  276  git merge task-1
+  277  git git branch -d task-1
+  278  git branch -d task-1
+  279  git branch -d task-2
+  280  git branc
+  281  git branch
+  282  git checkot task-1
+  283  git checkout task-1
+  284  git branch
+  285  git checkout develop
+  286  git branch
+  287  git branch -d task-1
+  288  git branch
+  289  history >> historia.txt
