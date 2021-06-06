@@ -1,0 +1,13 @@
+# Listar as branches do projeto atual
+git branch
+#apagar a branch task-2 (não pode estar na branch)
+git branch -d task-1
+#Remover uma branch do servidor
+git push --delete origin task-1
+# Renomear uma branch (task-3) já estando dentro da branch
+git branch -m task3-novo-nome
+# Renomear uma branch (task-3) estando fora dela
+git branch -m task-3 task3-novo-nome
+#Fazendo um merge na branch master (estando na master)
+git merge develop
+# Quando faz o merge ele faz o commit.

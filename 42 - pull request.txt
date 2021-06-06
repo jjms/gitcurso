@@ -1,0 +1,4 @@
+#Dar um commit e um add ao mesmo tempo
+git commit -a -m "Testando git commit -a"
+#Não funciona com arquivos novos
+
